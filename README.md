@@ -1,1 +1,3 @@
-# Linear-Models
+# Linear Models
+
+## Simple Linear Regression 
